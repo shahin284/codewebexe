@@ -1,0 +1,44 @@
+.MOVIE
+{
+    .GENRES
+{
+
+    background: #121213;
+    color:azure;
+    padding:10px 25px;
+    border:1px solid rgba(0,0,0,.1);
+     border-radius: 10px;
+     outline-width: 50;
+     font-weight: 700;
+     box-shadow: 0 0 10px rgba(0,0,0,.1);
+     
+}.GENRES button :active
+{
+    padding:10px 20px;
+    background:#f4f3f6;
+    color:#fff;
+    border:1px solid rgba(0,0,0,.1);
+    border-radius:10px;
+    outline:none;
+    font-size: 1.4em;
+    font-weight: 700;
+    box-shadow:0 0 10px solid rgba(0,0,0,.5);
+
+
+}
+}
+     
+.MOVIE button :active
+{
+    padding:10px 20px;
+    background:#121114;
+    color:#e5dddd;
+    border:1px solid rgba(0,0,0,.1);
+    border-radius:10px;
+    outline:none;
+    font-size: 1.4em;
+    font-weight: 700;
+    box-shadow:0 0 10px solid rgba(0,0,0,.5);
+
+
+}

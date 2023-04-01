@@ -1,0 +1,62 @@
+
+    
+    .container{
+    
+       width:1000px ;
+       height:30px ;
+       font-family: sans-serif;
+       color:white;
+       margin-top: 0px;
+       margin-bottom: 0px;
+       margin-left:0px ;
+       margin-right:0px ;
+       font-weight: bold;
+       background-color: black;
+       
+        
+    
+    }
+    
+    .login{
+       
+        width: 1000px;
+        height:1000px ;
+        display: grid;
+        position:static;
+        place-content: center;
+        border-radius:2px ;
+        margin-left: auto;
+        margin-right: auto;
+       font-weight: bold;
+       font-size: large;
+       color: rgb(47, 4, 4);
+       
+
+    }
+    .bgimage{
+        background-image: url(image.jpeg);
+        opacity: 0.8;
+    }
+    .other,
+    .tv,.Movies{
+        margin-left:60px ;
+       margin-right:0px ;
+    }
+    .About{
+        margin-left: 400px;
+    }
+    .pa{
+        background-color:white;
+        width: 400px;
+        cursor: pointer;
+        border-radius: 30px;
+        height: 20px;
+    }
+    .button{
+        width: 60px;
+        background-color: red;
+        margin-left: 120px;
+        border: none;
+        border-radius: 2px;
+
+    }
